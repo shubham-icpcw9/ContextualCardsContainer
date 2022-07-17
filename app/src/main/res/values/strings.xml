@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextualCardsContainer</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="retry">Retry</string>
+</resources>
